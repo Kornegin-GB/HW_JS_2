@@ -14,7 +14,7 @@ if (num2 >= 3) {
 
 // Задание 2
 let test = true;
-console.log((test === true) ? '+++' : '---');
+console.log(test ? '+++' : '---');
 
 // Задание 3
 let day = Math.ceil(Math.random() * 31 + 1);
